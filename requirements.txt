@@ -1,0 +1,9 @@
+tensorflow==2.0.0
+insightface==0.1.5
+numpy==1.16.6
+python_telegram_bot==13.1
+requests==2.18.4
+joblib==0.14.1
+Pillow==8.0.1
+scikit_learn==0.24.0
+telegram==0.0.1
